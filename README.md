@@ -1,5 +1,5 @@
 # IJ-Plugin_Phase-Correction
-*This plugin is aimed at correcting the phase shift sometimes encountered when using a confocal microscope in bi-directionnal scanning mode*
+*This plugin is aimed at correcting the phase shift sometimes encountered when using a confocal microscope in bi-directionnal scanning mode.*
 
 ## Installation
 1. Make sure you are running at least **ImageJ v1.54f**: Update ImageJ using the "Help/Update ImageJ" menu.
