@@ -3,7 +3,7 @@
 
 ## Installation
 1. Make sure you are running at least **ImageJ v1.54f**: Update ImageJ using the "Help/Update ImageJ" menu.
-2. Download the Phase_Correction.jar plugin__ from the [release page](https://github.com/fabricecordelieres/IJ-Plugin_Phase-Correction/releases).
+2. Download the __Phase_Correction.jar plugin__ from the [release page](https://github.com/fabricecordelieres/IJ-Plugin_Phase-Correction/releases).
 3. Drag-and-drop it to the ImageJ toolbar: a dialog box will pop-up, requesting the user to point at the destination folder. By default, the ImageJ/Plugins folder should be selected: press Ok to validate.
 
 ## What does it do ?
