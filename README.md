@@ -1,4 +1,4 @@
-# IJ-Plugin_Phase-Correction
+# IJ Phase Correction
 *This plugin is aimed at correcting the phase shift sometimes encountered when using a confocal microscope in bi-directionnal scanning mode.*
 
 ## Installation
