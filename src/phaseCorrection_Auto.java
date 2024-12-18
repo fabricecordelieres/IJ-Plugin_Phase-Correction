@@ -43,7 +43,7 @@ public class phaseCorrection_Auto implements ExtendedPlugInFilter, DialogListene
 		this.pfr=pfr;
 		
 		gd=new GenericDialog("Automated Phase Correction");
-		gd.addMessage("<html><small><i>Infos/bug report: <a href=\"mailto:fabrice.cordelieres@gmail.com\">fabrice.cordelieres@gmail.com</a></i></small></html>");
+		gd.addMessage("Infos/bug report: fabrice.cordelieres@gmail.com");
 		gd.addMessage("");
 		
 		gd.addSlider("Maximum_phase_correction_(pixels)", 0, 20, maxDisplacement);

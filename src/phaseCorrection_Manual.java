@@ -33,7 +33,7 @@ public class phaseCorrection_Manual implements ExtendedPlugInFilter, DialogListe
 		phaseCorrection.computeCorrection(WindowManager.getCurrentImage().getProcessor(), 20, isEven);
 		
 		GenericDialog gd=new GenericDialog("Manual Phase Correction");
-		gd.addMessage("<html><small><i>Infos/bug report: <a href=\"mailto:fabrice.cordelieres@gmail.com\">fabrice.cordelieres@gmail.com</a></i></small></html>");
+		gd.addMessage("Infos/bug report: fabrice.cordelieres@gmail.com");
 		gd.addMessage("");
 		gd.addSlider("Phase_correction_(pixels)", -20,20, shift);
 		gd.addChoice("Which_lines_to_move ?", new String[]{"Even", "Odd"},  isEven?"Even":"Odd");
